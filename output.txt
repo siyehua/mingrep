@@ -1,0 +1,2 @@
+the testfile.txt content is: 
+result:     siyehua
